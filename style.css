@@ -1,10 +1,43 @@
+body{
+    background-color:#FEE8B0;
+}
+
+img{
+    mix-blend-mode: multiply;
+}
+
 .heading{
     text-align:center;
-    margin-top:50px;
+    margin-top:48px;
     font-family:
 }
 
-h2{
-    float:left;
-    width:20%;
+.column{
+    color:#7C9070;
+    float: left;
 }
+
+.left,
+.middle,
+.right{
+    width:33%;
+}
+
+
+
+li{
+    color:#9CA777;
+}
+
+.heading-photo{
+    height:auto;
+    width:405px;
+    margin-left:700px;
+    display:block;
+}
+
+.eyecatching{
+    color: #F97b22
+}
+
+
